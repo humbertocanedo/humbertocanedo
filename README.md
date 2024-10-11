@@ -1,5 +1,3 @@
-# humbertocanedo
- Hi
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Humberto+Canedo" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+passionate+B.S.+CS+student+and+aspiring+software+developer+from+Mexico" alt="Typing SVG" /></a>
@@ -12,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/humberto-ca%C3%B1edo-cebreros-70ab17249/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Shariful Islam</a>
+<a href="https://www.linkedin.com/in/humberto-ca%C3%B1edo-cebreros-70ab17249/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Humberto Canedo</a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=Humbertocanedo1@hotmail.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> Shariful Islam</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=Humbertocanedo1@hotmail.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> Humberto Canedo</a>
 
 <hr>
 
