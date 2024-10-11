@@ -9,11 +9,14 @@
 
   - Exploring <span><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter logo" title="Flutter" height="30" align="center"/></span> and <span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase logo" title="Firebase" height="30" align="center" /></span>.
 
+<br><br>
+
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/humberto-ca%C3%B1edo-cebreros-70ab17249/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Humberto Canedo</a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Humbertocanedo1@hotmail.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> Humberto Canedo</a>
+<br><br>
 
 <hr>
 
