@@ -88,5 +88,5 @@
         <img alt="GIF" src="https://j.gifs.com/v1PopA.gif" align="right" style="width: 250px; height: 200px; vertical-align: middle;" />
     </span>
 </div>
-Credit: [sharif-islam96403](https://github.com/sharif-islam96403)
+
 
