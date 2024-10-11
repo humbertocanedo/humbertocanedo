@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+passionate+B.S.+CS+student+and+aspiring+software+developer+from+Mexico" alt="Typing SVG" /></a>
 
-<img align="right" height="270" width="400" alt="GIF" src="https://media.tenor.com/images/7f0b01e384e924607d376b61be0124da/tenor.gif" />
+<img align="right" height="270" width="400" alt="GIF" src="https://tenor.com/es/view/laptop-gif-26065234" />
 
   <h3> Aspiring Software Engineer | CS Student @ITESM</h3>
 
