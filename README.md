@@ -85,9 +85,6 @@
             <img src="https://github-readme-streak-stats.herokuapp.com?user=humbertocanedo&theme=black-ice&card_width=500&card_height=200" alt="GitHub Streak" style="max-width: 100%; height: auto; vertical-align: middle;" />
         </a>
     </span>
-    <span style="display: inline-block; margin-left: 20px;">
-        <img alt="GIF" src="https://j.gifs.com/v1PopA.gif" align="right" style="width: 250px; height: 200px; vertical-align: middle;" />
-    </span>
 </div>
 
 
