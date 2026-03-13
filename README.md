@@ -7,8 +7,7 @@
 
   <h3> Aspiring Software Engineer | CS Student @ITESM</h3>
 
-  - Exploring <span><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter logo" title="Flutter" height="30" align="center"/></span> and <span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase logo" title="Firebase" height="30" align="center" /></span>.
-
+  - Exploring Software
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
