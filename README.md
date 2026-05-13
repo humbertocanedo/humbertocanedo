@@ -5,7 +5,7 @@
 <img align="right" top="300" height="270" width="400" alt="GIF" src="https://github.com/humbertocanedo/humbertocanedo/blob/main/computer-pressing.gif">
 
 
-  <h3> Aspiring Software Engineer | CS Student @ITESM</h3>
+  <h3>  Software Engineer | CS Student @ITESM</h3>
 
   - Exploring Software
 <br><br>
